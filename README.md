@@ -1,6 +1,6 @@
-# mainpage_flutter_app
+# Oktilli_flutter_app
 
-A new Flutter application.
+This is a flutter app created for the live website Oktilli.
 
 ## Getting Started
 
